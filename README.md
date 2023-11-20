@@ -74,3 +74,4 @@ Vision Transformer based Music Genre Classifier
 ## Contributors
 - [Sanyam Shah](https://github.com/maynaS)
 - [Vikram Rao](https://github.com/viks01)
+-[Venika Sruthi](https://github.com/venika-19)
